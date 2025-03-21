@@ -284,7 +284,6 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <script src="./assets/jquery.ajaxchimp.min.js"></script>
     <script src="./assets/mail-script.js"></script>
     <!--gmaps Js-->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE"></script>
     <script src="./assets/gmaps.min.js"></script>
     <script src="./assets/theme.js"></script>
 </body>
